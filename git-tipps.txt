@@ -1,0 +1,8 @@
+Tipp 1: Wenn man eine Datei versehentlich geändert (git add Datei.name) hat, aber noch nicht comitted (git commit -m "Kommentar") gibt es zwei Möglichkeiten:
+1. Möglichkeit:
+ git restore --staged Datei.name
+Damit wird die Datei aus der "Staging-Area" entfernt (man hatte sie ja mit git add hinzugefügt)
+
+2. Möglichkeit:
+ git restore staged Datei.name
+Hiermit wird die Datei aus der "Staging-Area" entfernt aber auch offline auf den vorherigen Stand gesetzt.
