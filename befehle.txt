@@ -1,0 +1,3 @@
+git status     # Zeigt den aktuellen Status der Dateien im Repository
+git add        # Fügt Dateien zur nächsten Commit-Stufe hinzu
+git commit     # Speichert die Änderungen im lokalen Repository
