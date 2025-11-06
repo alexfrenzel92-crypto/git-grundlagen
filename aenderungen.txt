@@ -1,0 +1,5 @@
+ich habe die Datei befehle.txt erstellt und drei git-Befehle eingetragen.
+dann habe ich die Datei über die CMD zur Versionsverwaltung hinzugefügt (git add befehle.txt), committed (git add -m "Kommentar") und auf GitHub (git push) hochgeladen.
+
+ich habe die Datei README.md bearbeitet und eingetragen, was der Unterschied zwischen einem lokalen und einem remote Repository ist.
+dann habe ich die Datei READMD.md über die CMD zur Versionsverwaltung hinzugefügt und auf GitHub hochgeladen
